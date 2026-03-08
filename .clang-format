@@ -1,0 +1,15 @@
+BasedOnStyle: Google
+
+DerivePointerAlignment: false
+PointerAlignment: Right
+
+IndentWidth: 4
+ContinuationIndentWidth: 4
+AccessModifierOffset: -4
+ConstructorInitializerIndentWidth: 4
+
+ColumnLimit: 100
+
+IncludeBlocks: Preserve
+
+Standard: Latest

@@ -1,0 +1,15 @@
+# IDE
+.idea/
+cmake-build-*/
+
+# Build
+build/
+
+# Objects
+*.o
+*.a
+*.so
+core
+
+# AI
+CLAUDE.md
